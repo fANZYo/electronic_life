@@ -9,6 +9,6 @@ This version only runs in the console
 
 ## Legend
 
-\# = Wall 
-O = Critter 
+\# = Wall<br />
+O = Critter<br />
 \* = Plant
