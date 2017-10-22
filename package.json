@@ -1,0 +1,25 @@
+{
+  "name": "electronic_life",
+  "version": "1.0.0",
+  "description": "This is the project from Eloquent Javascript chapter 7",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fANZYo/electronic_life.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fANZYo/electronic_life/issues"
+  },
+  "homepage": "https://github.com/fANZYo/electronic_life#readme",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
